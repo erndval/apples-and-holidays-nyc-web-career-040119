@@ -51,6 +51,7 @@ def all_winter_holiday_supplies(holiday_hash)
         supplies << december_things
       end
     end
+  end
     december_things.join
 end
 
