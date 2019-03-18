@@ -59,6 +59,7 @@ holiday_hash.each do |season, holiday|
   season_string = ""
   season_string = season.to_s.capitalize
   puts "#{season_string}:"
+  holiday
 end
 end
 
